@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miro193
 - 👀 I’m interested in coding/software/web developing.
-- 🌱 I’m currently learning node.js.
+- 🌱 I’m currently learning node.js and react.
 - 💞️ I’m looking to collaborate on FrontEnd jobs and creative coding...
 - 📫 How to reach me ...
 <!---
